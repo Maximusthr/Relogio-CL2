@@ -27,7 +27,7 @@ always_ff @(posedge clock)
                         bcd_s_msd <= bcd_s_msd + 1'd1;
                         bcd_s_lsd <= 0;
                     end
-                else if (bcd_s_msd == 4'd5 && bcd_s_lsd == 4'd9) // verificar se possui bug na virada do 59 para 00 e 1 minuto
+                else if (bcd_s_msd == 3'd5 && bcd_s_lsd == 4'd9) // verificar se possui bug na virada do 59 para 00 e 1 minuto
                     begin
                         bcd_s_msd <= 0;
                         bcd_s_lsd <= 0;
