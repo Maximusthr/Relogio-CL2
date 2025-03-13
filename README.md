@@ -4,7 +4,7 @@
 - ### [:gear: Como rodar](#gear-como-rodar-1)
 - ### [:hourglass: Simulação](#hourglass-simulação-1)
 - ### [:floppy_disk: Circuito Resultante](#floppy_disk-circuito-resultante-1)
-- ### [:arrow_down: Baixar o projeto](https://github.com/Maximusthr/ULA-CL2/archive/refs/heads/main.zip)
+- ### [:arrow_down: Baixar o projeto](https://github.com/Maximusthr/Relogio-CL2/archive/refs/heads/main.zip)
 
 ## Disciplina de Circuitos Lógicos II
 
