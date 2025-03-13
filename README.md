@@ -44,6 +44,16 @@ A metodologia Top-Down[^4] é uma abordagem de design que começa com uma visão
 
 [^4]: [Metodologia Top-Down](https://www.cpt.com.br/cursos-informatica-desenvolvimentodesoftwares/artigos/logica-de-programacao-top-down-modularizacao-estruturas-de-controle-confiabilidade-manutenibilidade-e-portugol)
 
+### Definição das Especificações
+
+ - Funcionalidade: Relógio digital
+ - Entradas: Sinal de clock de 50MHz, Reset
+ - Saídas: 6 x 7 saídas (6 displays de 7 segmentos)
+
+O projeto deve implementar a seguinte arquitetura por modularização dos componentes:
+
+![image](https://github.com/user-attachments/assets/37978377-b20d-4d5d-9322-a781308dbdd6)
+
 ## :gear: Como rodar
 
 Para o desenvolvimento deste projeto, foi utilizado o Quartus II versão 13.0sp1, uma plataforma mantida pela Intel para projetos de hardware. Por isso, recomendamos a utilização dessa versão (ou superior) por oferecer a melhor compatibilidade com o código. O download do software pode ser encontrado em: [**Download**](https://www.intel.com/content/www/us/en/software-kit/711791/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-windows.html)
