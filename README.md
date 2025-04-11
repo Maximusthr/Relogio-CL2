@@ -28,7 +28,7 @@ Esse foi um projeto desenvolvido por discentes do curso de *Engenharia da Comput
 
 *"A Persistência da Memória"* – Salvador Dalí (1931)
 
-## :dart: Objetivo:
+## :dart: Objetivo
 
 O objetivo do projeto é projetar, implementar e simular um Relógio Digital[^1] em SystemVerilog[^2] que seja capaz de exibir horas, minutos e segundos em 6 displays de 7 segmentos. Para o desenvolvimento deste projeto, foi recomendado pela docente a utilização do software Quartus II.[^3] (Mais detalhes sobre a utilização do software em [Como rodar](#gear-como-rodar-1)). 
 
